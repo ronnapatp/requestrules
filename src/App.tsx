@@ -49,7 +49,7 @@ function App() {
       </header>
       <div className="App-header" id="request">
         <h3>Request Rules</h3>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegPF99lOulpjDCwKt6J20zwJJpR0SqfxdtSPZ3qN419jC31Q/viewform?embedded=true" width="640" height="519" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegPF99lOulpjDCwKt6J20zwJJpR0SqfxdtSPZ3qN419jC31Q/viewform?embedded=true" width="640" height="519">Loading…</iframe>
         <p>
           <a
             className="App-link"
